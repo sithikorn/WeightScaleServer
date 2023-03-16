@@ -1,0 +1,26 @@
+C:\Users\ss14336\Documents\Visual Studio 2008\Projects\WeightScaleServer\WeightScaleServer\bin\Debug\WeightScaleServer.exe.config
+C:\Users\ss14336\Documents\Visual Studio 2008\Projects\WeightScaleServer\WeightScaleServer\bin\Debug\WeightScaleServer.exe
+C:\Users\ss14336\Documents\Visual Studio 2008\Projects\WeightScaleServer\WeightScaleServer\bin\Debug\WeightScaleServer.pdb
+C:\Users\ss14336\Documents\Visual Studio 2008\Projects\WeightScaleServer\WeightScaleServer\bin\Debug\WeightScaleServer.xml
+C:\Users\ss14336\Documents\Visual Studio 2008\Projects\WeightScaleServer\WeightScaleServer\obj\Debug\WeightScaleServer.vbprojResolveAssemblyReference.cache
+C:\Users\ss14336\Documents\Visual Studio 2008\Projects\WeightScaleServer\WeightScaleServer\obj\Debug\WeightScaleServer.frmConsole.resources
+C:\Users\ss14336\Documents\Visual Studio 2008\Projects\WeightScaleServer\WeightScaleServer\obj\Debug\WeightScaleServer.Resources.resources
+C:\Users\ss14336\Documents\Visual Studio 2008\Projects\WeightScaleServer\WeightScaleServer\obj\Debug\WeightScaleServer.vbproj.GenerateResource.Cache
+C:\Users\ss14336\Documents\Visual Studio 2008\Projects\WeightScaleServer\WeightScaleServer\obj\Debug\WeightScaleServer.exe
+C:\Users\ss14336\Documents\Visual Studio 2008\Projects\WeightScaleServer\WeightScaleServer\obj\Debug\WeightScaleServer.xml
+C:\Users\ss14336\Documents\Visual Studio 2008\Projects\WeightScaleServer\WeightScaleServer\obj\Debug\WeightScaleServer.pdb
+D:\Projects\WeightScaleServer\WeightScaleServer\bin\Debug\WeightScaleServer.exe.config
+D:\Projects\WeightScaleServer\WeightScaleServer\obj\Debug\WeightScaleServer.exe
+D:\Projects\WeightScaleServer\WeightScaleServer\obj\Debug\WeightScaleServer.xml
+D:\Projects\WeightScaleServer\WeightScaleServer\obj\Debug\WeightScaleServer.pdb
+D:\Projects\WeightScaleServer\WeightScaleServer\bin\Debug\WeightScaleServer.exe
+D:\Projects\WeightScaleServer\WeightScaleServer\bin\Debug\WeightScaleServer.pdb
+D:\Projects\WeightScaleServer\WeightScaleServer\bin\Debug\WeightScaleServer.xml
+D:\Projects\WeightScaleServer\WeightScaleServer\obj\Debug\WeightScaleServer.vbprojResolveAssemblyReference.cache
+D:\Projects\WeightScaleServer\WeightScaleServer\obj\Debug\WeightScaleServer.frmConsole.resources
+D:\Projects\WeightScaleServer\WeightScaleServer\obj\Debug\WeightScaleServer.Resources.resources
+D:\Projects\WeightScaleServer\WeightScaleServer\obj\Debug\WeightScaleServer.vbproj.GenerateResource.Cache
+D:\Projects\SSL\WeightScaleServer\WeightScaleServer\bin\Debug\WeightScaleServer.exe.config
+D:\Projects\SSL\WeightScaleServer\WeightScaleServer\obj\Debug\WeightScaleServer.exe
+D:\Projects\SSL\WeightScaleServer\WeightScaleServer\obj\Debug\WeightScaleServer.xml
+D:\Projects\SSL\WeightScaleServer\WeightScaleServer\obj\Debug\WeightScaleServer.pdb

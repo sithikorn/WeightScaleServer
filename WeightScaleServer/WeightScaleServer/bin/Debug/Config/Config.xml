@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configurations>
+  <Configuration name="ComPortName" value="COM7"  Comment=""  />
+  <Configuration name="WeightName" value="GP600" Comment="GD603=Mid(Q.Dequeue, 8),Other=Mid(Q.Dequeue, 6, 5)"  />
+ <Configuration name="MaxClient" value="2" Comment=""  />
+ <Configuration name="ListenPort" value="8015" Comment=""  />
+ <Configuration name="Visible" value="True" Comment=""  />
+ <Configuration name="BaudRate" value="1200" Comment=""  />
+ <Configuration name="DataBits" value="7" Comment=""  />
+</Configurations>
